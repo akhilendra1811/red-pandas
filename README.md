@@ -6,7 +6,7 @@ A small example project to build your experience with Git and Quarto
 ## Dependencies and Getting Started
 
 Here’s how someone can pick up and use this project:
-
+0. **Fork** the rpeository on Github.
 1. **Clone** the repository  
 
 ```{.bash}
